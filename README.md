@@ -1,4 +1,4 @@
-![logo](https://github.com/jaynarigara91/jaynarigara91/blob/main/Copy%20of%20Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner%20(3).png))
+![logo](https://github.com/jaynarigara91/jaynarigara91/blob/main/Copy%20of%20Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner%20(3).png)
 <h1 align="center">Hi👋, I'm Jay Narigara</h1>
 <h3 align="center">A Passionate Data Scientist From India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
