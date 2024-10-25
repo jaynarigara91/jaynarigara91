@@ -4,7 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaynarigara91&label=Profile%20views&color=0e75b6&style=flat" alt="jaynarigara91" /> </p>
 
-- 💬 Ask me about **Python,SQL,ML,Deep Learning**
+- 💬 Ask me about **Python,SQL,ML,Deep Learning,Gen AI**
+
+- 🌱 I am Currently learning **CICD Pipeline And Mlops**
 
 - 📫 How to reach me **jaynarigara91@gmail.com**
 
