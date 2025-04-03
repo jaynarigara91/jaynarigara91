@@ -1,12 +1,12 @@
-![logo](https://github.com/jaynarigara91/jaynarigara91/blob/main/Copy%20of%20Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner%20(3).png)
+![logo]![Copy of Black and  White Gradient Personal LinkedIn Banner (3)](https://github.com/user-attachments/assets/b4be954b-d8cc-4706-97e1-84abcaea4fd9)
 <h1 align="center">Hi👋, I'm Jay Narigara</h1>
-<h3 align="center">A Passionate Data Scientist From India</h3>
+<h3 align="center">A Passionate AI ML Engineer From India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaynarigara91&label=Profile%20views&color=0e75b6&style=flat" alt="jaynarigara91" /> </p>
 
-- 💬 Ask me about **Python,SQL,ML,Deep Learning,Gen AI**
+- 💬 Ask me about **Gen AI , Machine learning, Data science, AI Agents, Flask, NLP**
 
-- 🌱 I am Currently learning **CICD Pipeline And Mlops**
+- 🌱 I am Currently learning **Langgraph + Copilotkit**
 
 - 📫 How to reach me **jaynarigara91@gmail.com**
 
