@@ -1,4 +1,4 @@
-![logo]![Copy of Black and  White Gradient Personal LinkedIn Banner (3)](https://github.com/user-attachments/assets/b4be954b-d8cc-4706-97e1-84abcaea4fd9)
+![logo](https://github.com/user-attachments/assets/b4be954b-d8cc-4706-97e1-84abcaea4fd9)
 <h1 align="center">Hi👋, I'm Jay Narigara</h1>
 <h3 align="center">A Passionate AI ML Engineer From India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
